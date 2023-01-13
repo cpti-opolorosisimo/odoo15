@@ -1,0 +1,4 @@
+[submodule "cpti-jrfuentes/pos_uat"]
+	path = cpti-jrfuentes/pos_uat
+	url = git@github.com:cpti-jrfuentes/pos_uat.git
+	branch = production
