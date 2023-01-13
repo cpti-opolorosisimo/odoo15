@@ -2,3 +2,8 @@
 	path = cpti-jrfuentes/pos_uat
 	url = git@github.com:cpti-jrfuentes/pos_uat.git
 	branch = production
+
+[submodule "cpti-jrfuentes/pos_custom2"]
+	path = cpti-jrfuentes/pos_custom2
+	url = git@github.com:cpti-jrfuentes/pos_custom2.git
+	branch = ejlog
